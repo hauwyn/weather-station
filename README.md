@@ -11,5 +11,5 @@ before use them, we need stop a. /dev/ttyAMA0 (Pi2 or Pi3(used for bluetooth))
 
 or b. /dev/ttyS0(Pi3)
 
-
+usb back up service file path: /etc/systemd/system/NAME.service 
 
