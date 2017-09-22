@@ -1,6 +1,8 @@
 # weather-station
 weather station for hummingbird technologies
 
+weather_station_daily.py can store data as csv and db file
+
 weather_station_total.py is for record all data in one file
 
 serial_port_test.py is for teat Rxd and Txd port in Pin (8, 10) 
